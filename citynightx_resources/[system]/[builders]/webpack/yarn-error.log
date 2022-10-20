@@ -1,0 +1,41 @@
+Arguments: 
+  C:\FiveM\serv\FXServer.exe C:\FiveM\serv\resources\[system]\[builders]\yarn\yarn_cli.js install
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Parow\AppData\Local\Microsoft\WindowsApps;C:\Users\Parow\AppData\Roaming\npm;C:\Users\Parow\AppData\Local\GitHubDesktop\bin;C:\Users\Parow\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Parow\AppData\Local\Programs\Fiddler
+
+Yarn version: 
+  1.13.0
+
+Node version: 
+  12.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EBUSY: resource busy or locked, copyfile 'C:\Users\Parow\AppData\Local\Yarn\Cache\v4\npm-ajv-6.12.3-18c5af38a111ddeb4f2697bd78d68abc1cabd706\node_modules\ajv\lib\dot\allOf.jst' -> 'C:\FiveM\serv\resources\[system]\[builders]\webpack\node_modules\ajv\lib\dot\allOf.jst'
+
+npm manifest: 
+  {
+    "name": "webpack-builder",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "async": "^2.6.1",
+      "webpack": "^4.12.0",
+      "worker-farm": "^1.6.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
