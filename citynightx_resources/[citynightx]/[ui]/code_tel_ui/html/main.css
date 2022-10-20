@@ -1,0 +1,120 @@
+body {
+	display: none;
+	-webkit-touch-callout: none; /* iOS Safari */
+	  -webkit-user-select: none; /* Safari */
+	   -khtml-user-select: none; /* Konqueror HTML */
+		 -moz-user-select: none; /* Old versions of Firefox */
+		  -ms-user-select: none; /* Internet Explorer/Edge */
+			  user-select: none; /* Non-prefixed version, currently
+									supported by Chrome, Edge, Opera and Firefox */
+
+  }
+
+  .coque {
+	  position: absolute;
+	  width:320px;
+	  right:800px;
+	  margin-top: -1.6%;
+	  top:5%;
+	  z-index: 3;
+
+  }
+  .panel2 {
+	position: absolute;
+	background: rgb(88,88,88);
+	background: linear-gradient(31deg, rgba(88,88,88,1) 0%, rgba(215,132,52,1) 65%, rgba(219,143,0,1) 100%);
+	-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px);
+	top:40px;
+	right:820px;
+	width:280px;
+	height:598px;
+	margin: 0 auto;
+	z-index: 2;
+  }
+.panel {
+	position: relative;
+	top:7px;
+	width:280px;
+	height:598px;
+	margin: 0 auto;
+	margin-top: 3%;
+	z-index: 4;
+  }
+  .space {
+	text-align: center;
+	color:#fff;
+	font-family: helvetica;
+	font-size: 18px;
+	padding-top: 40px;
+	margin-bottom: -30px;
+	z-index: 3;
+  }
+  .passcode {
+	color:#fff;
+	font-size: 40px;
+
+	margin-bottom: -0px;
+	letter-spacing: 15px;
+	text-align: center;
+	margin-right:20px;
+	font-family: helvetica;
+	z-index: 3;
+  }
+  li {
+	list-style:none;
+	display: inline-block;
+	width: 72px;
+	line-height: 72px;
+	border: 2px solid #dcdde1;
+	border-radius: 50px;
+	text-align: center;
+	color:#fff;
+	font-family: helvetica;
+	font-size: 30px;
+	margin-top:10px;
+	opacity: 1;
+	transition:  all 0.4s;
+  }
+  
+  li:hover {
+	background-color: #dcdde1;
+	opacity:1.0;
+	color : black
+  }
+  
+  li:first-child {
+	margin-right:16px;
+  }
+  
+  li:last-child {
+	margin-left:16px;
+  }
+  
+  .row {
+	padding:0px;
+	text-align: center;
+  }
+  
+  .text {
+	color:#fff;
+	font-family: helvetica;
+	font-size: 18px;
+	margin-top: 30px;
+  }
+  
+  .emergency:hover, .cancel:hover {
+	color: #dcdde1;
+  }
+  
+  .emergency {
+	float: left;
+	margin-left: 24px;
+	transition: color 0.3s;
+  }
+  .cancel {
+	float: right;
+	margin-right: 24px;
+	transition: color 0.3s;
+  }
+  

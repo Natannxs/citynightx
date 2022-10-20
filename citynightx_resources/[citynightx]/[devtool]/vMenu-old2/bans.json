@@ -1,0 +1,89 @@
+[
+  {
+    "playerName": "Aiden Brody",
+    "identifiers": [
+      "steam:11000010b9f78cf",
+      "license:bbb16562e2d80df18e22bc551111a7337df7b3a7",
+      "live:1899947055926484",
+      "discord:344097511117422593",
+      "ip:90.116.223.139"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Retounez sur votre free-acces",
+    "bannedBy": "Waremme pute"
+  },
+  {
+    "playerName": "Jack Brown",
+    "identifiers": [
+      "steam:11000013b1bc9a4",
+      "license:05bfbecf27572de3d35d1dd74956f37cc8c5d936",
+      "live:1055518783382187",
+      "discord:564541145242271746",
+      "ip:109.210.74.77"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Waremme pute"
+  },
+  {
+    "playerName": "NF Mehdi",
+    "identifiers": [
+      "steam:110000136a57afe",
+      "license:eeca28ebcb0734d122b9fb1455b0d75220a7e257",
+      "discord:605278156219219978",
+      "ip:89.157.187.138"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "pepere"
+  },
+  {
+    "playerName": "InvalidPlayerName",
+    "identifiers": [],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "pepere"
+  },
+  {
+    "playerName": "Juan Bourbieto",
+    "identifiers": [
+      "steam:11000013a0f2055",
+      "license:071aef953747048c9375deecf9903cb19c508bd1",
+      "xbl:2533274987389229",
+      "live:985157103317211",
+      "discord:487716662489907201",
+      "ip:89.87.197.140"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "pepere"
+  },
+  {
+    "playerName": "Blendi Zenunaj",
+    "identifiers": [
+      "steam:11000013eafc0a6",
+      "license:3d122a5effd1cf408e2597ace761ce2b02e24926",
+      "xbl:2535415510705120",
+      "live:914798603252381",
+      "discord:657647458439921664",
+      "ip:178.199.128.14"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Go FreeAcces",
+    "bannedBy": "pepere"
+  },
+  {
+    "playerName": "Keyvo",
+    "identifiers": [
+      "steam:110000136863b84",
+      "license:e2cbdc765e50f45ef23e1ef968e1ba0f301f53db",
+      "xbl:2535433499864909",
+      "live:1055518474327660",
+      "discord:702561200864624781",
+      "ip:82.124.159.29"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "pepere"
+  }
+]
