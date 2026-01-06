@@ -1,3 +1,5 @@
 # citynightx
  
-FiveM Framework Developed by NatannG
+FiveM server with custom Framework 
+
+Developed in 2020
